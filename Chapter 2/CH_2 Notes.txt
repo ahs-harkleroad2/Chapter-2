@@ -1,0 +1,63 @@
+Chapter 2
+---------
+
+Type Casting - Converting Data Types
+
+Int a = 4.0/1.5
+Int a = (int) 4.0 / 1.5 = 2.66 = 2
+Double a = (double) 4 / 2 = 2.0
+
+Constent - A value that does not change
+
+Final int ALLCAPS = 1; 
+String methods 
+charat(index) String name = “Alex”
+
+name.charat(0); //A
+Length ()  name.;length; //4
+toUpperCase ()    name.toUperCase(); Alex
+toLowerCase()
+
+--------
+Comments
+--------
+ 
+// - Single Line 
+
+
+/*
+*
+*
+*/
+
+^ Multi line or block
+
+
+/**
+*
+*/
+//******
+//
+//******
+//-----
+//
+//------
+/////////
+//
+/////////
+
+^ Documentation
+
+-----------------
+Keyboarding input
+Scanner class
+Scanner keyboard = new scanner (system.in);
+println(“Enter your name”);
+String name = Keyboard.next();
+Int = nextInt();
+Double - NextDouble();
+
+Read a Character
+String input;
+Input = keyboard.next();
+char Answer = input.charAt(0);

@@ -1,0 +1,77 @@
+2.1 - 
+
+public class Columbus
+}
+//A crazy mixed up program
+public static void main(String[] args)
+{
+System.out.println("In 1942 Columbus sailed the ocean blue.");
+{
+}
+
+2.2 - Columbus.java
+
+2.3 -
+
+public class Hello
+{
+	public static void main(String[] args)
+	{
+	System.out.println("Hello World");
+	}
+}
+
+2.4 - 
+
+//Date: 9-4-2019
+
+public class Name
+{
+	public static void main(String[] args)
+	{
+	System.out.println("Alex Harkleroad");
+	}
+}	 
+
+2.5 - C (.java)
+
+2.6 - A (A method named main)
+
+2.7 - 
+
+//It's a mad, mad program
+
+public class Success
+{
+	public static void main(String[] args)
+	{
+	System.out.println("Success\n");
+	System.out.print("Success");
+	System.out.print("Success");
+	System.out.print("\nSuccess");
+	}
+}
+	
+2.8 - 
+
+The works of Wolfgang
+include the following
+The Turkish March and Symphony No. 40 in G minor.
+
+2.9 - 
+
+//9-4-2019
+
+public class info
+{
+	public static void main(String[] args)
+	{
+	System.out.println("Alex Harkleroad");
+	System.out.println("112 Bypass Rd");
+	System.out.println("Kittanning, Pennsylvania, 16201");
+	System.out.print("412-607-5811")
+	}
+
+2.10 - little, big, 2, 2000, The little number is, The big number is
+
+2.11 - The value is number.
